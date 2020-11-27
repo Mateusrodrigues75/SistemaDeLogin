@@ -1,0 +1,13 @@
+C:\Users\dev\Documents\SistemaDeLogin\obj\Debug\netcoreapp3.1\SistemaDeLogin.csprojAssemblyReference.cache
+C:\Users\dev\Documents\SistemaDeLogin\obj\Debug\netcoreapp3.1\SistemaDeLogin.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\SistemaDeLogin\obj\Debug\netcoreapp3.1\SistemaDeLogin.AssemblyInfo.cs
+C:\Users\dev\Documents\SistemaDeLogin\obj\Debug\netcoreapp3.1\SistemaDeLogin.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\SistemaDeLogin\bin\Debug\netcoreapp3.1\SistemaDeLogin.exe
+C:\Users\dev\Documents\SistemaDeLogin\bin\Debug\netcoreapp3.1\SistemaDeLogin.deps.json
+C:\Users\dev\Documents\SistemaDeLogin\bin\Debug\netcoreapp3.1\SistemaDeLogin.runtimeconfig.json
+C:\Users\dev\Documents\SistemaDeLogin\bin\Debug\netcoreapp3.1\SistemaDeLogin.runtimeconfig.dev.json
+C:\Users\dev\Documents\SistemaDeLogin\bin\Debug\netcoreapp3.1\SistemaDeLogin.dll
+C:\Users\dev\Documents\SistemaDeLogin\bin\Debug\netcoreapp3.1\SistemaDeLogin.pdb
+C:\Users\dev\Documents\SistemaDeLogin\obj\Debug\netcoreapp3.1\SistemaDeLogin.dll
+C:\Users\dev\Documents\SistemaDeLogin\obj\Debug\netcoreapp3.1\SistemaDeLogin.pdb
+C:\Users\dev\Documents\SistemaDeLogin\obj\Debug\netcoreapp3.1\SistemaDeLogin.genruntimeconfig.cache
